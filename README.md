@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ccu92, and you can call me Peter.
+- 👋 Hi, I’m @ccu92, and you can call me Pt.
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning AI agent tool. 
 - 💞️ I’m looking to collaborate on ...
