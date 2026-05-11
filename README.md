@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccu92, and you can call me Peter.
-- 👀 I’m interested in Data science.
-- 🌱 I’m currently learning Web development
+- 👀 I’m interested in AI.
+- 🌱 I’m currently learning AI agent tool. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ,yenping.tsao@gmail.com
 
